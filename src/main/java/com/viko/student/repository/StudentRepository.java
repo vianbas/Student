@@ -13,4 +13,7 @@ public interface StudentRepository extends JpaRepository<Student, Integer> {
 
 	@Query(value = "select avg(nilai) from student", nativeQuery = true)
 	public Integer getNilaiAverage();
+	
+	@Query(value = "select min(nilai) from student", nativeQuery = true)
+	public Integer getNilaiMin();
 }

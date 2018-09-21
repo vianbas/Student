@@ -73,4 +73,10 @@ public class StudentController {
 		Integer student = studentRepository.getNilaiAverage();
 		return student;
 	}
+	
+	@GetMapping("/nilai/min")
+	public Integer getNilaiMin() {
+		Integer student = studentRepository.getNilaiMin();
+		return student;
+	}
 }
