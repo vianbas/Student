@@ -11,4 +11,4 @@ Feature :
 
 sql dump file name student_backup210920181223.sql in root folder
 
-postman request https://www.getpostman.com/collections/43fc5a8f9e16b90c3029
+postman request : https://www.getpostman.com/collections/43fc5a8f9e16b90c3029 
