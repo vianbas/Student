@@ -1,4 +1,4 @@
-# Student
+# Student App (Spring boot app with simple crud of student data)
 Feature :
 1. create new student
 2. update student by id
