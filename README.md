@@ -7,6 +7,7 @@ Feature :
 5. get all student
 6. get nilai max 
 7. get nilai average
+8. get nilai min
 
 sql dump file name student_backup210920181223.sql in root folder
 
